@@ -1,0 +1,10 @@
+id,company,product,metric_type,value_before,value_after,source,percent_change
+1,OpenAI,ChatGPT,Market Share %,76.4,62.6,SearchEngineJournal,-18.06
+2,Anthropic,Claude,Market Share %,8.9,18.5,SearchEngineJournal,107.87
+3,Google,Gemini,Market Share %,9.0,27.3,SearchEngineJournal,203.33
+4,Perplexity,Perplexity,Market Share %,3.5,7.3,First Page Sage,108.57
+5,OpenAI,ChatGPT,Weekly Active Users (M),900.0,900.0,OpenAI Official,0.0
+6,Google,Gemini,Monthly Active Users (M),500.0,1000.0,First Page Sage,100.0
+7,Anthropic,Claude,Annual Revenue ($B),9.0,65.0,Reuters,622.22
+8,OpenAI,GPT-6 Astra,Benchmark Score,0.0,53.0,Artificial Analysis Index,
+9,Anthropic,Claude Fable 5.1,Benchmark Score,0.0,53.0,Artificial Analysis Index,
